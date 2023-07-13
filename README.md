@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @erikgsmit
-- 
-- I’m interested and passionate about coding. When I am not coding I enjoy playing playing various sports and video games and thus
+  
+- I study computer science at KTH in Stockholm, which is also where i live. I am currently embarking on my second year.
+
+- I’m interested and passionate about coding. When I am not coding I enjoy playing various sports and video games and thus
   my projects are often related to such things. I like finding inspiration for my projects from my everyday life and I am always
   keen on developing my programming skills.
   
-- 🌱 I’m currently learning C++ but also tend to do a lot of projects in Python
+- I’m currently learning C++ but also tend to do a lot of projects in Python
 
 - 📫 You can preferably reach me on my mail: erikgsmit@gmail.com
 <!---
