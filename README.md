@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @erikgsmit
-  
-- I study computer science at KTH in Stockholm, which is also where i live. I am currently embarking on my second year.
+# Hi, I’m Erik Smit 👋 
+I study computer science at the Royal In in Stockholm
 
-- I’m interested and passionate about coding. When I am not coding I enjoy playing various sports and video games and thus
-  my projects are often related to such things. I like finding inspiration for my projects from my everyday life and I am always
-  keen on developing my programming skills.
-  
-- I’m currently learning C++ but also tend to do a lot of projects in Python
+## Skills
+* 💻 Skills in: C, C++, Java, Python, Haskell, SQL, Assembly.
+* 📁 Experienced with version control systems (Git).
+* 🧠 Creative and problem solver, always seek to learn and expand my knowledge!
 
-- 📫 You can preferably reach me on my mail: erikgsmit@gmail.com
+## Projects
+* 🪠 Super-Mario Bros: A remake of the classic Super Mario on NES, in Python using Pygame.
+* 🦖 T-Rex Game: A remake of the Chrome Dino Game for ChipKit, in C.
+* 🤖 Machine Learning study, Bayesian Approach: A small machine learning project, in Python.
+
+## Education
+* 🎓 Computer Science and Engineering, Royal Institute of Technology (KTH), 2022-2027.
+
+## Contact Me
+* E-mail: [esmit@kth.se](mailto:esmit@kth.se)
 <!---
 erikgsmit/erikgsmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
