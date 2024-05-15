@@ -1,5 +1,5 @@
 # Hi, I’m Erik Smit 👋 
-I study computer science at the Royal In in Stockholm
+I study computer science at the Royal Institute of Technology in Stockholm
 
 ## Skills
 * 💻 Skills in: C, C++, Java, Python, Haskell, SQL, Assembly.
