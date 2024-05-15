@@ -7,6 +7,7 @@ I study computer science at the Royal Institute of Technology in Stockholm
 * 🧠 Creative and problem solver, always seek to learn and expand my knowledge!
 
 ## Projects
+* 🐢 [Leona](https://github.com/erikgsmit/leona): A Leona language translator (lexer & parser), in Java
 * 🪠 [Super-Mario Bros](https://github.com/erikgsmit/super-mario-nes-remastered): A remake of the classic Super Mario on NES, in Python using Pygame.
 * 🦖 [T-Rex Game](https://github.com/erikgsmit/chipkit_pixel_game) : A remake of the Chrome Dino Game for ChipKit, in C.
 * 🤖 [Machine Learning study, Bayesian Approach](https://github.com/erikgsmit/ML-Bayesian_Linear_Regression): A small machine learning project, in Python.
