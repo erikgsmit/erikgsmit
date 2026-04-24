@@ -10,10 +10,9 @@ I study computer science at the Royal Institute of Technology in Stockholm
 * 🐢 [Leona](https://github.com/erikgsmit/leona): A Leona language translator (lexer & parser), in Java
 * 🪠 [Super-Mario Bros](https://github.com/erikgsmit/super-mario-nes-remastered): A remake of the classic Super Mario on NES, in Python using Pygame.
 * 🦖 [T-Rex Game](https://github.com/erikgsmit/chipkit_pixel_game) : A remake of the Chrome Dino Game for ChipKit, in C.
-* 🤖 [Machine Learning study, Bayesian Approach](https://github.com/erikgsmit/ML-Bayesian_Linear_Regression): A small machine learning project, in Python.
 
 ## Education
-* 🎓 Computer Science and Engineering, Royal Institute of Technology (KTH), 2022-2027.
+* 🎓 Computer Science and Engineering (Data Science), Royal Institute of Technology (KTH), 2022-2027.
 
 ## Contact Me
 * 📫 E-mail: [esmit@kth.se](mailto:esmit@kth.se)
