@@ -5,7 +5,6 @@ MSc Computer Science student at KTH Royal Institute of Technology, specializing 
 ## Interests
 
 * Data Science & Machine Learning
-* Performance Analysis & KPI Evaluation
 * Reinforcement Learning
 * Deep Learning
 * Backend Development
@@ -13,7 +12,15 @@ MSc Computer Science student at KTH Royal Institute of Technology, specializing 
 ## Featured Projects
 Below are few of my featured projects.
 
-### 🤖 RL-Based Pathfinding for UAVs
+### 🫀 Heart Failure Readmission Risk Prediction
+
+Built a machine learning workflow to predict 30-day hospital readmission risk for heart failure patients using clinical biomarkers, treatment variables, vital signs, and social determinants of health.
+
+The project includes exploratory data analysis, preprocessing pipelines, Logistic Regression and Random Forest models, cross-validation, threshold tuning, and feature interpretation and can easily be expanded.
+
+🔗 https://github.com/erikgsmit/heart-failure-readmission-risk
+
+### 🤖 RL-Based Pathfinding for UAVs [WIP]
 
 Explored the use of Q-learning for autonomous UAV path planning and evaluated performance in Gazebo simulated environments.
 
