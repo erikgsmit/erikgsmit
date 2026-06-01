@@ -1,25 +1,48 @@
-# Hi, I’m Erik Smit 👋 
-I study computer science at the Royal Institute of Technology in Stockholm
+# Hi, I'm Erik Smit 👋
+
+MSc Computer Science student at KTH Royal Institute of Technology, specializing in Data Science.
+
+## Interests
+
+* Data Science & Machine Learning
+* Performance Analysis & KPI Evaluation
+* Reinforcement Learning
+* Deep Learning
+* Backend Development
+
+## Featured Projects
+Below are few of my featured projects.
+
+### 🤖 RL-Based Pathfinding for UAVs
+
+Explored the use of Q-learning for autonomous UAV path planning and evaluated performance in Gazebo simulated environments.
+
+🔗 https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone
+
+### 🎮 Super Mario Bros Remastered
+
+A remake of the classic NES game built in Python using Pygame.
+
+🔗 https://github.com/erikgsmit/super-mario-nes-remastered
 
 ## Skills
-* 💻 Skills in: C, C++, Java, Python, Haskell, SQL, Assembly.
-* 📁 Experienced with version control systems (Git).
-* 🧠 Creative and problem solver, always seek to learn and expand my knowledge!
 
-## Projects
-Below are some examples of projects I've done
-* 🐢 [Leona](https://github.com/erikgsmit/leona): A Leona language translator (lexer & parser), in Java
-* 🪠 [Super-Mario Bros](https://github.com/erikgsmit/super-mario-nes-remastered): A remake of the classic Super Mario on NES, in Python using Pygame.
-* 🦖 [T-Rex Game](https://github.com/erikgsmit/chipkit_pixel_game) : A remake of the Chrome Dino Game for ChipKit, in C.
+**Languages:** Python, Java, C++, SQL, JavaScript
+
+**Tools:** Git, Linux, Docker, Kubernetes, Docker.
+
+**Data & ML:** pandas, PyTorch, Reinforcement Learning, Deep Learning.
 
 ## Education
-* 🎓 Computer Science and Engineering (Data Science), Royal Institute of Technology (KTH), 2022-2027.
 
-## Contact Me
-* 📫 E-mail: [esmit@kth.se](mailto:esmit@kth.se)
-* 👨‍💻 GitHub: [erikgsmit](https://github.com/erikgsmit)
-* 💼 LinkedIn: [Erik Smit](https://www.linkedin.com/in/erik-smit-195b47277/)
-<!---
-erikgsmit/erikgsmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**KTH Royal Institute of Technology**
+MSc Computer Science (Data Science Track)
+2022–2027
+
+## Contact
+
+📧 [erikgsmit@gmail.com](mailto:erikgsmit@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/erik-smit-195b47277/
+
+🐙 GitHub: https://github.com/erikgsmit
