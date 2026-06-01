@@ -34,7 +34,7 @@ A remake of the classic NES game built in Python using Pygame.
 
 ## Skills
 
-**Languages:** Python, Java, C++, SQL, JavaScript
+**Languages:** Python, Java, C++, SQL, JavaScript.
 
 **Tools:** Git, Linux, Docker, Kubernetes, Docker.
 
