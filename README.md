@@ -10,7 +10,7 @@ MSc Computer Science student at KTH Royal Institute of Technology, specializing 
 * Backend Development
 
 ## Featured Projects
-Below are few of my featured projects.
+Below are a few of my featured projects.
 
 ### 🫀 Heart Failure Readmission Risk Prediction
 
