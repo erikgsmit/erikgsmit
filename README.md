@@ -17,7 +17,7 @@ Below are few of my featured projects.
 
 Explored the use of Q-learning for autonomous UAV path planning and evaluated performance in Gazebo simulated environments.
 
-🔗 https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone
+🔗 https://github.com/erikgsmit/rl_pathfinding_uavs
 
 ### 🎮 Super Mario Bros Remastered
 
