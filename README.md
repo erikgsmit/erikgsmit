@@ -32,11 +32,8 @@ Explored the use of Q-learning for autonomous UAV path planning and evaluated pe
 
 ---
 
-### 🧠 Image Classification with Vision Transformers
-
-Developed and evaluated deep learning models for image classification as part of the DD2424 Deep Learning in Data Science course at KTH. The project explores Vision Transformers (ViT) and compares their performance against convolutional neural network architectures on image recognition tasks.
-
-The work includes model training, hyperparameter tuning, performance evaluation, and analysis of modern transformer-based computer vision techniques using PyTorch.
+### 🐶 Transfer Learning and Semi-Supervised Learning for Pet Breed Classification
+Developed and evaluated transfer learning and semi-supervised learning methods for fine-grained image classification using a pre-trained ResNet18 on the Oxford-IIIT Pet Dataset. Investigated linear probing, fine-tuning, gradual unfreezing, and pseudo-labeling under varying labeled-data regimes, achieving up to 90.3% test accuracy. Implemented experiments and analysis in PyTorch.
 
 🔗 **Repository:** [DD2424 Deep Learning Project](https://github.com/FilipDimitrijevic97/DD2424-Project)
 
